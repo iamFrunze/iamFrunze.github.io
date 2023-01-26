@@ -10,6 +10,7 @@
   "crm": "CRM {}",
   "purposeBuildingTitle": "Укажите назначение здания",
   "purposeBuildingClasses": {
+    "allBuilding": "Все здания",
     "dormitoryForWorkers": "Общежитие для рабочих",
     "bathAndLaundryComplex": "Банно-прачечный комплекс",
     "officeHeadquarters": "Офис (штаб)",
@@ -43,7 +44,7 @@
   },
   "numberPersons": "Количество человек",
   "allDate": "Все даты",
-  "allManagers": "Все менеждеры",
+  "allManagers": "Все менеджеры",
   "purposeBuilding": "Назначение здания",
   "configurationBuilding": "конфигурация здания",
   "areaBlock": "Размер блока",
